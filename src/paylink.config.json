@@ -2,38 +2,38 @@
   "theme": "night",
 
   "properties": {
-    "name": "Daniel Castillo",
-    "description": "Frontend web developer, engineer and tireless creator. Building products that make developers happy.",
-    "alt": "Photo of Daniel Castillo",
-    "hero": "./images/daniel-castillo.png"
+    "name": "Alvienzo720",
+    "description": "Blockchain Developer",
+    "alt": "Photo of Alvienzo720",
+    "hero": "./public/images/0_2.png"
   },
 
   "Social": [
     {
       "label": "Email",
       "value": "bx-envelope",
-      "link": "mailto:dlcastillo3015@gmail.com"
+      "link": "husmutebi@gmail.com"
     },
-    { "label": "Link", "value": "bx-link", "link": "https://dlcastillop.com" },
+    { "label": "Link", "value": "bx-link", "link": "#" },
     {
       "label": "GitHub",
       "value": "bxl-github",
-      "link": "https://github.com/dlcastillop"
+      "link": "https://github.com/alvienzo720"
     },
     {
       "label": "Twitter",
       "value": "bxl-twitter",
-      "link": "https://twitter.com/dlcastillop"
+      "link": "https://twitter.com/Code__bruh"
     },
     {
       "label": "LinkedIn",
       "value": "bxl-linkedin",
-      "link": "https://linkedin.com/in/dlcastillop"
+      "link": ""
     },
     {
       "label": "Instagram",
       "value": "bxl-instagram",
-      "link": "https://instagram.com/dlcastillop"
+      "link": ""
     },
     { "label": "Discord", "value": "bxl-discord", "link": "" },
     { "label": "Facebook", "value": "bxl-facebook", "link": "" },
@@ -54,37 +54,37 @@
     {
       "id": "btc",
       "label": "Bitcoin",
-      "value": "bc1qejahgjmqnmyrw7jvn0d7evfdq6ssjl3wq7hfle",
+      "value": "#33344",
       "img": "./images/payments/btc.svg"
     },
     {
       "id": "busd",
       "label": "BinanceUSD",
-      "value": "",
+      "value": "frggsss",
       "img": "./images/payments/busd.svg"
     },
     {
       "id": "matic",
       "label": "Matic",
-      "value": "",
+      "value": "##",
       "img": "./images/payments/matic.svg"
     },
     {
       "id": "doge",
       "label": "DogeCoin",
-      "value": "",
+      "value": "##",
       "img": "./images/payments/doge.svg"
     },
     {
       "id": "eth",
       "label": "Ethereum",
-      "value": "0x59C864f658caD68A19a97499755080c056079988",
+      "value": "##",
       "img": "./images/payments/eth.svg"
     },
     {
       "id": "ltc",
       "label": "Litecoin",
-      "value": "",
+      "value": "##",
       "img": "./images/payments/ltc.svg"
     },
     {
@@ -96,7 +96,7 @@
     {
       "id": "usdt",
       "label": "USDT (TRC20)",
-      "value": "TFPqkDJaqdHxp5UiNoEvTPj7DJwkuX4A7r",
+      "value": "",
       "img": "./images/payments/usdt.svg"
     },
     {
@@ -114,13 +114,13 @@
     {
       "id": "trx",
       "label": "Tron",
-      "value": "TFPqkDJaqdHxp5UiNoEvTPj7DJwkuX4A7r",
+      "value": "",
       "img": "./images/payments/trx.svg"
     },
     {
       "id": "qvapay",
       "label": "QvaPay",
-      "value": "https://qvapay.com/payme/dlcastillop",
+      "value": "https://qvapay.com/payme/",
       "img": "./images/payments/qvapay.svg"
     },
     {
@@ -132,7 +132,7 @@
     {
       "id": "card",
       "label": "Card",
-      "value": "",
+      "value": "##",
       "img": "./images/payments/card.svg"
     }
   ],

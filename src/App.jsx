@@ -9,7 +9,7 @@ import Config from "./paylink.config.json";
 const App = () => {
   const [qrData, setQrData] = useState({ img: "", label: "", value: "" });
   const [paymentMethods, setPaymentMethods] = useState(Config.Payments);
-  const title = "PayLink | Pay or donate to " + Config.properties.name;
+  const title = "Airfarm-PayLink" + Config.properties.name;
 
   // Set title tag
   document.title = title;
@@ -90,11 +90,12 @@ const App = () => {
 
       <footer className="py-6 text-center">
         <a
-          href="https://github.com/dlcastillop/paylink"
+          href="https://github.com/alvienzo720"
           target="_blank"
           className="text-xs"
         >
-          Powered by <span className="font-bold">PayLink</span>
+          Powered by <span className="font-bold">Airfarm-PayLink
+</span>
         </a>
       </footer>
     </div>
